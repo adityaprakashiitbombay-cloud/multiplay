@@ -1,0 +1,378 @@
+{
+  "tictactoe": [
+    {
+      "type": "win",
+      "roomId": "SOLAR-93",
+      "winner": "Player 1 (Nova)",
+      "loser": "Player 2 (Cyber)",
+      "symbol": "X",
+      "winningLine": [
+        0,
+        1,
+        2
+      ],
+      "scores": {
+        "X": 1,
+        "O": 0,
+        "ties": 0
+      },
+      "totalMoves": 5,
+      "timestamp": 1786172260389,
+      "date": "2026-08-08T06:57:40.389Z"
+    },
+    {
+      "type": "win",
+      "roomId": "QUANTUM-82",
+      "winner": "Player 1 (Nova)",
+      "loser": "Player 2 (Cyber)",
+      "symbol": "X",
+      "winningLine": [
+        0,
+        1,
+        2
+      ],
+      "scores": {
+        "X": 1,
+        "O": 0,
+        "ties": 0
+      },
+      "totalMoves": 5,
+      "timestamp": 1786173626670,
+      "date": "2026-08-08T07:20:26.670Z"
+    },
+    {
+      "type": "win",
+      "roomId": "NOVA-51",
+      "winner": "Player 1 (Nova)",
+      "loser": "Player 2 (Cyber)",
+      "symbol": "X",
+      "winningLine": [
+        0,
+        1,
+        2
+      ],
+      "scores": {
+        "X": 1,
+        "O": 0,
+        "ties": 0
+      },
+      "totalMoves": 5,
+      "timestamp": 1786175017580,
+      "date": "2026-08-08T07:43:37.580Z"
+    },
+    {
+      "type": "win",
+      "roomId": "HYPER-34",
+      "winner": "Player 1 (Nova)",
+      "loser": "Player 2 (Cyber)",
+      "symbol": "X",
+      "winningLine": [
+        0,
+        1,
+        2
+      ],
+      "scores": {
+        "X": 1,
+        "O": 0,
+        "ties": 0
+      },
+      "totalMoves": 5,
+      "timestamp": 1786176476649,
+      "date": "2026-08-08T08:07:56.649Z"
+    },
+    {
+      "type": "win",
+      "roomId": "HYPER-13",
+      "winner": "Player 1 (Nova)",
+      "loser": "Player 2 (Cyber)",
+      "symbol": "X",
+      "winningLine": [
+        0,
+        1,
+        2
+      ],
+      "scores": {
+        "X": 1,
+        "O": 0,
+        "ties": 0
+      },
+      "totalMoves": 5,
+      "timestamp": 1786177264942,
+      "date": "2026-08-08T08:21:04.942Z"
+    },
+    {
+      "type": "win",
+      "roomId": "CYBER-61",
+      "winner": "Player 1 (Nova)",
+      "loser": "Player 2 (Cyber)",
+      "symbol": "X",
+      "winningLine": [
+        0,
+        1,
+        2
+      ],
+      "scores": {
+        "X": 1,
+        "O": 0,
+        "ties": 0
+      },
+      "totalMoves": 5,
+      "timestamp": 1786177603627,
+      "date": "2026-08-08T08:26:43.627Z"
+    }
+  ],
+  "hiddenModel": [
+    {
+      "roomId": "SOLAR-93",
+      "playerCount": 3,
+      "players": [
+        {
+          "name": "Player 1 (Nova)",
+          "avatar": "⚡",
+          "secretChoice": "Claude 3.5 Sonnet"
+        },
+        {
+          "name": "Player 2",
+          "avatar": "🤖",
+          "secretChoice": "GPT-4o"
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "avatar": "🤖",
+          "secretChoice": ""
+        }
+      ],
+      "topScorer": "Player 1 (Nova)",
+      "topAccuracy": 50,
+      "leaderboard": [
+        {
+          "name": "Player 1 (Nova)",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "correct": 0,
+          "accuracy": 0
+        }
+      ],
+      "timestamp": 1786172264299,
+      "date": "2026-08-08T06:57:44.299Z"
+    },
+    {
+      "roomId": "QUANTUM-82",
+      "playerCount": 3,
+      "players": [
+        {
+          "name": "Player 1 (Nova)",
+          "avatar": "⚡",
+          "secretChoice": "Claude 3.5 Sonnet"
+        },
+        {
+          "name": "Player 2",
+          "avatar": "🤖",
+          "secretChoice": "GPT-4o"
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "avatar": "🤖",
+          "secretChoice": ""
+        }
+      ],
+      "topScorer": "Player 1 (Nova)",
+      "topAccuracy": 50,
+      "leaderboard": [
+        {
+          "name": "Player 1 (Nova)",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "correct": 0,
+          "accuracy": 0
+        }
+      ],
+      "timestamp": 1786173630618,
+      "date": "2026-08-08T07:20:30.618Z"
+    },
+    {
+      "roomId": "NOVA-51",
+      "playerCount": 3,
+      "players": [
+        {
+          "name": "Player 1 (Nova)",
+          "avatar": "⚡",
+          "secretChoice": "Claude 3.5 Sonnet"
+        },
+        {
+          "name": "Player 2",
+          "avatar": "🤖",
+          "secretChoice": "GPT-4o"
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "avatar": "🤖",
+          "secretChoice": ""
+        }
+      ],
+      "topScorer": "Player 1 (Nova)",
+      "topAccuracy": 50,
+      "leaderboard": [
+        {
+          "name": "Player 1 (Nova)",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "correct": 0,
+          "accuracy": 0
+        }
+      ],
+      "timestamp": 1786175021652,
+      "date": "2026-08-08T07:43:41.652Z"
+    },
+    {
+      "roomId": "HYPER-34",
+      "playerCount": 3,
+      "players": [
+        {
+          "name": "Player 1 (Nova)",
+          "avatar": "⚡",
+          "secretChoice": "Claude 3.5 Sonnet"
+        },
+        {
+          "name": "Player 2",
+          "avatar": "🤖",
+          "secretChoice": "GPT-4o"
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "avatar": "🤖",
+          "secretChoice": ""
+        }
+      ],
+      "topScorer": "Player 1 (Nova)",
+      "topAccuracy": 50,
+      "leaderboard": [
+        {
+          "name": "Player 1 (Nova)",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "correct": 0,
+          "accuracy": 0
+        }
+      ],
+      "timestamp": 1786176480542,
+      "date": "2026-08-08T08:08:00.542Z"
+    },
+    {
+      "roomId": "HYPER-13",
+      "playerCount": 3,
+      "players": [
+        {
+          "name": "Player 1 (Nova)",
+          "avatar": "⚡",
+          "secretChoice": "Claude 3.5 Sonnet"
+        },
+        {
+          "name": "Player 2",
+          "avatar": "🤖",
+          "secretChoice": "GPT-4o"
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "avatar": "🤖",
+          "secretChoice": ""
+        }
+      ],
+      "topScorer": "Player 1 (Nova)",
+      "topAccuracy": 50,
+      "leaderboard": [
+        {
+          "name": "Player 1 (Nova)",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "correct": 0,
+          "accuracy": 0
+        }
+      ],
+      "timestamp": 1786177268898,
+      "date": "2026-08-08T08:21:08.898Z"
+    },
+    {
+      "roomId": "CYBER-61",
+      "playerCount": 3,
+      "players": [
+        {
+          "name": "Player 1 (Nova)",
+          "avatar": "⚡",
+          "secretChoice": "Claude 3.5 Sonnet"
+        },
+        {
+          "name": "Player 2",
+          "avatar": "🤖",
+          "secretChoice": "GPT-4o"
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "avatar": "🤖",
+          "secretChoice": ""
+        }
+      ],
+      "topScorer": "Player 1 (Nova)",
+      "topAccuracy": 50,
+      "leaderboard": [
+        {
+          "name": "Player 1 (Nova)",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2",
+          "correct": 1,
+          "accuracy": 50
+        },
+        {
+          "name": "Player 2 (Cyber)",
+          "correct": 0,
+          "accuracy": 0
+        }
+      ],
+      "timestamp": 1786177607630,
+      "date": "2026-08-08T08:26:47.630Z"
+    }
+  ]
+}
